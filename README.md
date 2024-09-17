@@ -1,2 +1,2 @@
 # pre-trained-ResNet-model
-A pretrained ResNet model refers to a Residual Network that has already been trained on a large dataset, such as ImageNet, and is then used as a foundation for other tasks.
+The project utilizes various pre-trained CNN models, such as EfficientNet and ResNet, for image classification tasks. These models, pre-trained on large datasets like ImageNet, are being fine-tuned for a specific task. A dataset is built from images stored in directories, and the model is trained on this dataset with adjustments in parameters like batch size and image size. The trained model is then saved for further use, focusing on optimizing performance in the classification task.
